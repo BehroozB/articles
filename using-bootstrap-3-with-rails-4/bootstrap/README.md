@@ -7,5 +7,3 @@ Run these commands:
     rails s
 
 This application was built with Ruby v2.
-
- dfads
